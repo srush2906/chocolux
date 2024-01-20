@@ -148,7 +148,7 @@ By the end of this milestone, you would be having a working chatbot system that 
 ## URLs
 Drive video URL: 
 
-PDF File With ScreenShoots and explanation about project :
+PDF File With ScreenShoots and explanation about project :https://drive.google.com/drive/folders/1kcsLKG448f-JIggUoRXrAbcA1TzWuf-0?usp=sharing
 
 working project URL: https://srush2906.github.io/chocolux/
 
