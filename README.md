@@ -1,4 +1,5 @@
-# **Chocolux Website **
+## Microsoft-Future-Ready-Talent-Virtual-Internship-Project
+## Project Title: Chocolux Website 
 ## **Chapter-I**
 ## Objective
 
